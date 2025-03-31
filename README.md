@@ -10,7 +10,8 @@
 - 🎯 I want to collaborate with a company that needs feed delivery
 - 📢 Feel free to reach me on Instagram or via email: 340.artdesign@gmail.com
   
-————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————
+
 ## 🛠️ Tools and Softwares :
 ![adobe_photoshop_macos_bigsur_icon_190436 (1)](https://github.com/user-attachments/assets/7a8db109-17eb-4f9d-8c5c-aad148085130)
 ![adobe_illustrator_macos_bigsur_icon_190447 (1)](https://github.com/user-attachments/assets/b4f67206-766a-486d-8636-476e5aa1ffca)
