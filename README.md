@@ -6,7 +6,7 @@
 
 ————————————————————————————————————————————
 - ✍ I’m a graphic designer and manage pages on Instagram!
-- 🪛 I’m a Mobile Repair Technician
+- 🪛 I’m a  IT and Mobile Repair Technician
 - 🎯 I want to collaborate with a company that needs feed delivery
 - 📢 Feel free to reach me on Instagram or via email: 340.artdesign@gmail.com
 
