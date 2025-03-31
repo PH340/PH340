@@ -13,8 +13,9 @@
 ————————————————————————————————————————————
 
 ## 🛠️ Tools and Softwares
-![adobe_photoshop_macos_bigsur_icon_190436](https://github.com/user-attachments/assets/40b55435-561f-475f-b37d-c05ed2d0f9da) 
-![adobe_illustrator_macos_bigsur_icon_190447](https://github.com/user-attachments/assets/81537869-765b-42ca-a398-edb8efc3e3bc)
-![adobe_lightroom_alt_macos_bigsur_icon_190440](https://github.com/user-attachments/assets/15fd8fd4-ce2b-497a-870e-6d715c84e506)
-![adobe_premiere_pro_macos_bigsur_icon_189485](https://github.com/user-attachments/assets/3d026e20-40c8-456f-9cba-234a2e63a6c8)
-![canva_logo_icon_168460](https://github.com/user-attachments/assets/dd6d6cbe-3cf7-4816-925c-eb44331e0fc7)
+![adobe_photoshop_macos_bigsur_icon_190436 (1)](https://github.com/user-attachments/assets/7a8db109-17eb-4f9d-8c5c-aad148085130)
+![adobe_illustrator_macos_bigsur_icon_190447 (1)](https://github.com/user-attachments/assets/b4f67206-766a-486d-8636-476e5aa1ffca)
+![adobe_lightroom_macos_bigsur_icon_190441](https://github.com/user-attachments/assets/4215d0af-b0db-4e53-af19-a2ac49971345)
+![adobe_premiere_pro_premiere_pro_multimedia_software_aplication_icon_191049](https://github.com/user-attachments/assets/2a98d614-3d3b-4eb9-aedf-c11c3827cc11)
+![adobe_cc_macos_bigsur_icon_190457](https://github.com/user-attachments/assets/a49f6042-1df4-4659-813b-69957da74d34)
+![icons8-canva-64](https://github.com/user-attachments/assets/5ca6c054-891b-4b0f-bf59-7b3bfc0e2e5c)
