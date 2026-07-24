@@ -1,4 +1,5 @@
-![Banner](https://github.com/user-attachments/assets/0c01fafe-03a1-4f4f-b735-ca906838d356)
+<img width="1983" height="793" alt="58580248-4d19-49e5-85b6-c51bfe35b7d3" src="https://github.com/user-attachments/assets/613e1025-8c16-4641-acf4-923c001beae2" />
+![Banner](https://github.com/user-attachments/assets/613e1025-8c16-4641-acf4-923c001beae2)
 
 ---
 ## Hi there! 👋 I'm PH!
