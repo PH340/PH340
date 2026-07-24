@@ -15,8 +15,6 @@
 ---
 
 ## 🛠️ Tools :
-<img src="https://github.com/user-attachments/assets/80ea89d5-6339-43ab-be56-8eb42ceb50b5" width="300">
-![Claude](https://github.com/user-attachments/assets/80ea89d5-6339-43ab-be56-8eb42ceb50b5)
 ![adobe_photoshop_macos_bigsur_icon_190436 (1)](https://github.com/user-attachments/assets/7a8db109-17eb-4f9d-8c5c-aad148085130)
 ![adobe_illustrator_macos_bigsur_icon_190447 (1)](https://github.com/user-attachments/assets/b4f67206-766a-486d-8636-476e5aa1ffca)
 ![adobe_lightroom_macos_bigsur_icon_190441](https://github.com/user-attachments/assets/4215d0af-b0db-4e53-af19-a2ac49971345)
