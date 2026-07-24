@@ -3,14 +3,14 @@
 ---
 ## Hi there! 👋 I'm PH!
 ---
-✎ I am a graphic and social media designer
+✎ I am a fullstack dev and designer
 
 ---
 
-- ✍ I’m a graphic designer and manage pages on Instagram!
-- 🪛 I’m a  IT and Mobile Repair Technician
+- ✍ graphic designer
+- 🪛 IT and Mobile Repair Technician
 - 🎯 I want to collaborate with a company that needs feed delivery
-- 📢 Feel free to reach me on Instagram or via email: 340.artdesign@gmail.com
+- 📢 Feel free to reach me on Instagram or via email: cpufocus@gmail.com
   
 ---
 
