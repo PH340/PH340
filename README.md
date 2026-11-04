@@ -10,7 +10,7 @@
 - ✍ graphic designer
 - 🪛 IT and Mobile Repair Technician
 - 🎯 I want to collaborate with a company that needs feed delivery
-- 📢 Feel free to reach me on Instagram or via email: cpufocus@gmail.com
+- 📢 Feel free to reach me on Instagram or via email: dev@cpufocus.com.br
   
 ---
 
