@@ -30,7 +30,7 @@
 
 Tweaks, rede e ping, limpeza, hardware e restauração, tudo em um painel só.
 
-[![Site](https://img.shields.io/badge/Site-cpufocus.com.br-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cpufocus.com.br)
+[![Site](https://img.shields.io/badge/Site-cpufocus.com.br-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.cpufocus.com.br)
 [![Discord](https://img.shields.io/badge/Discord-Entrar-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eJ62b43tRj)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/555192540304)
 
