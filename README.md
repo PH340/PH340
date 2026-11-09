@@ -45,7 +45,7 @@ Tweaks, rede e ping, limpeza, hardware e restauração, tudo em um painel só.
 ## 🛠️ Projetos
 
 - **CPU Focus**: launcher/painel de otimização gamer para Windows, com licença vinculada ao PC.
-- **Roleta Conversora**: menu radial para Windows que converte imagens (PNG, JPEG, ICO e mais) direto no Explorer, feito em Python.
+- **Convert-me**: menu radial para Windows que converte imagens (PNG, JPEG, ICO e mais) direto no Explorer, feito em Python.
 
 ## 📊 Stats
 
